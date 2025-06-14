@@ -1,8 +1,8 @@
-name: CI pipeline with shared runner
+name: CI pipeline with selfhosted runner
 
 on:
   push:
-    branches: ["main"]
+    #branches: ["main"]
   #pull_request:
     #branches: [ "main" ]
 
