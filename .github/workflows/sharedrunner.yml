@@ -2,7 +2,7 @@ name: CI pipeline with shared runner
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ ]
   #pull_request:
     #branches: [ "main" ]
 
